@@ -1,0 +1,18 @@
+.background{
+    background-color: rgb(43, 226, 101);
+}
+.btn:hover{
+    background-color: rgb(187, 35, 35);
+}
+.card-title{
+    height:100px;
+}
+.card-text{
+    height:200px;
+}
+.card-source{
+    padding:5px;
+    background-color: bisque;
+    font-size: 12px;
+    text-align: center;
+}
